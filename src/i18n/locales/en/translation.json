@@ -1,0 +1,452 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "webexpress": "WebExpress",
+    "contact": "Contact",
+    "getInTouch": "Get in touch"
+  },
+  "hero": {
+    "title": "AI Consulting & Development Services",
+    "subtitle": "Unlock the power of Artificial Intelligence to transform your business. From AI consulting to intelligent agents and process optimization, we help organizations innovate and grow.",
+    "cta": "Get Started"
+  },
+  "services": {
+    "title": "Our AI Services",
+    "subtitle": "Comprehensive AI solutions tailored to your business needs",
+    "learnMore": "Learn more",
+    "consulting": {
+      "title": "AI Consulting",
+      "description": "We guide you through the AI journey, from identifying opportunities to designing effective strategies and selecting the right technologies.",
+      "longDescription": "Our expert consultants work closely with your team to understand your unique challenges and opportunities. We provide strategic guidance on AI adoption, help you build a roadmap for implementation, and ensure your AI initiatives align with your business objectives.",
+      "features": {
+        "assessment": "AI maturity assessment for your organization",
+        "roadmap": "Strategic implementation roadmap",
+        "selection": "Technology and vendor selection",
+        "training": "Team training and upskilling",
+        "governance": "AI governance and ethics frameworks"
+      },
+      "benefits": {
+        "title": "Key benefits",
+        "items": ["Reduced risk in AI adoption", "Alignment with business objectives", "Optimized ROI on AI investments", "Future-ready teams"]
+      }
+    },
+    "agents": {
+      "title": "AI Agent Development",
+      "description": "We build intelligent agents that automate tasks, enhance customer experiences, and provide actionable insights tailored to your needs.",
+      "longDescription": "From conversational AI assistants to autonomous decision-making systems, we design and develop AI agents that work seamlessly with your existing processes. Our agents are built to learn, adapt, and improve over time, delivering increasing value to your organization.",
+      "features": {
+        "chatbots": "Intelligent chatbots and virtual assistants",
+        "automation": "Complex workflow automation",
+        "integration": "Integration with existing systems (CRM, ERP)",
+        "analytics": "Predictive analytics and recommendations",
+        "multimodal": "Multimodal agents (text, voice, image)"
+      },
+      "benefits": {
+        "title": "Key benefits",
+        "items": ["24/7 support without human intervention", "Up to 60% reduction in operational costs", "Instant scalability", "Personalized experiences for every user"]
+      }
+    },
+    "optimization": {
+      "title": "Process Optimization",
+      "description": "Our AI models streamline workflows with predictive analytics and automation to reduce costs and boost efficiency.",
+      "longDescription": "We analyze your current processes to identify bottlenecks and inefficiencies. Using advanced machine learning and predictive analytics, we implement solutions that automate repetitive tasks, optimize resource allocation, and drive operational excellence.",
+      "features": {
+        "processMapping": "Current process mapping and analysis",
+        "bottlenecks": "Bottleneck identification",
+        "predictive": "Predictive models for demand and resources",
+        "rpa": "Robotic Process Automation (RPA)",
+        "monitoring": "Real-time monitoring dashboards"
+      },
+      "benefits": {
+        "title": "Key benefits",
+        "items": ["Up to 40% reduction in cycle times", "Elimination of human errors", "Better resource allocation", "Full performance visibility"]
+      }
+    },
+    "custom": {
+      "title": "Custom AI Solutions",
+      "description": "We develop tailor-made AI solutions—computer vision, NLP, generative AI—to solve your most complex challenges.",
+      "longDescription": "Every business has unique challenges that require bespoke solutions. Whether you need computer vision for quality control, natural language processing for document analysis, or generative AI for content creation, we build custom solutions that address your specific needs.",
+      "features": {
+        "vision": "Computer vision for inspection and analysis",
+        "nlp": "Natural Language Processing (NLP/NLU)",
+        "generative": "Generative AI for content and design",
+        "recommendation": "Advanced recommendation systems",
+        "forecasting": "Forecasting and time series"
+      },
+      "benefits": {
+        "title": "Key benefits",
+        "items": ["100% tailored solution for your use case", "Own intellectual property", "Unique competitive advantage", "Scalable according to your needs"]
+      }
+    },
+    "webexpress": {
+      "title": "WebExpress",
+      "badge": "New",
+      "description": "Professional websites for local businesses, ready in 7 days. Custom design, SEO optimized, and everything you need to stand out online.",
+      "longDescription": "Is your business not online yet? We create a professional website almost ready. Just final adjustments and you're online! Specialized in local businesses that need online presence FAST."
+    }
+  },
+  "featured": {
+    "badge": "New Service",
+    "title": "WebExpress",
+    "tagline": "Your business online in one week",
+    "description": "Professional websites for local businesses. Custom design, SEO optimized, ready to sell. No waiting, no complications.",
+    "price": "From $690",
+    "cta": "Discover WebExpress",
+    "highlights": {
+      "fast": "7-day delivery",
+      "pages": "5 professional pages",
+      "seo": "Local SEO optimized",
+      "responsive": "100% responsive"
+    }
+  },
+  "whyUs": {
+    "title": "Why Choose InspAIre Solutions?",
+    "subtitle": "We combine technical expertise with business vision to deliver tangible results",
+    "items": {
+      "expertise": {
+        "title": "Expertise Across Industries",
+        "description": "We've worked with companies in retail, finance, healthcare, manufacturing, and more. We understand the specific challenges of each sector."
+      },
+      "partnership": {
+        "title": "End-to-End Partnership",
+        "description": "We don't just deliver technology. We accompany you from strategy to implementation and ongoing support."
+      },
+      "impact": {
+        "title": "Proven Impact on Efficiency",
+        "description": "Our clients have seen up to 60% improvements in operational efficiency and positive ROI in less than 6 months."
+      },
+      "scalable": {
+        "title": "Scalable & Future-Ready Solutions",
+        "description": "We design with growth in mind. Our solutions scale with you and adapt to new challenges."
+      }
+    }
+  },
+  "approach": {
+    "title": "Our Approach",
+    "subtitle": "A proven methodology for AI success",
+    "steps": {
+      "discovery": {
+        "title": "Discovery",
+        "description": "Identify opportunities where AI creates real value.",
+        "details": "We analyze your business, processes, and data to find the best opportunities to apply AI with measurable impact."
+      },
+      "design": {
+        "title": "Design",
+        "description": "Build tailored AI solutions aligned with your business goals.",
+        "details": "We design the architecture, select technologies, and create prototypes to validate the approach before investing."
+      },
+      "implementation": {
+        "title": "Implementation",
+        "description": "Seamlessly integrate AI into your existing systems.",
+        "details": "We develop and integrate the solution iteratively, ensuring quality and minimal operational disruption."
+      },
+      "optimization": {
+        "title": "Optimization",
+        "description": "Continuously improve and scale for long-term impact.",
+        "details": "We monitor, improve, and scale the solution based on real data and business feedback."
+      }
+    }
+  },
+  "clients": {
+    "title": "Who We Work With",
+    "subtitle": "We partner with enterprises, startups, SMBs, and public institutions to unlock the transformative power of AI.",
+    "types": {
+      "enterprises": "Enterprises",
+      "startups": "Startups",
+      "smbs": "SMBs",
+      "public": "Public Sector"
+    }
+  },
+  "cta": {
+    "title": "Get Started with AI Today",
+    "subtitle": "AI is reshaping the way businesses operate. Let InspAIre Solutions help you unlock its full potential with expert consulting and tailor-made solutions.",
+    "button": "Contact Us"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We'd love to learn about your goals and how AI can help.",
+    "emailDirect": "Or email us directly at",
+    "phone": "Phone",
+    "presence": "Global presence",
+    "comingSoon": "Coming soon: Spain",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "you@company.com",
+      "company": "Company",
+      "companyPlaceholder": "Company name",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your project or goals",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully! We'll get back to you soon.",
+      "error": "Something went wrong. Please try again or email us directly.",
+      "disclaimer": "We'll respond to your inquiry as soon as possible."
+    },
+    "office": {
+      "title": "Our Office",
+      "address1": "30 N Gould St, STE R",
+      "address2": "Sheridan, WY 82801, USA"
+    },
+    "errors": {
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Invalid email address",
+      "messageRequired": "Message is required",
+      "messageMin": "Message must be at least 10 characters"
+    }
+  },
+  "webexpress": {
+    "hero": {
+      "badge": "WebExpress",
+      "title": "Your business online in one week",
+      "subtitle": "Professional websites for local businesses. Custom design, SEO optimized, ready to start selling.",
+      "cta": "Request Proposal",
+      "ctaSecondary": "See what's included"
+    },
+    "about": {
+      "title": "What is WebExpress?",
+      "description": "We specialize in creating professional websites for local businesses that need online presence FAST.",
+      "highlight": "Our approach is different",
+      "highlightText": "Instead of starting from scratch and making you wait months, we research your business, analyze your competition, and arrive with a proposal ALMOST READY. You review, we adjust together, and in one week you're online.",
+      "noTemplates": "We don't use generic templates. Each website is designed specifically for your type of business, with your information, your photos, and your style."
+    },
+    "forWho": {
+      "title": "Who is WebExpress For?",
+      "subtitle": "Ideal for local businesses that need professional online presence",
+      "items": {
+        "noWeb": "Businesses WITHOUT a website or with outdated ones",
+        "local": "Local stores and shops",
+        "services": "Professionals and services",
+        "restaurants": "Restaurants and hospitality",
+        "health": "Clinics and health centers",
+        "others": "And many more..."
+      }
+    },
+    "process": {
+      "title": "WebExpress Process",
+      "subtitle": "From 0 to Online in 7 days",
+      "steps": {
+        "research": {
+          "day": "Day 1-2",
+          "title": "Research",
+          "items": ["We gather information about your business", "We analyze your competition", "We define your value proposition", "We get photos if you need them"]
+        },
+        "design": {
+          "day": "Day 3-4",
+          "title": "Design & Development",
+          "items": ["Design adapted to your sector", "5 professional pages", "Optimized for mobile", "SEO for local searches"]
+        },
+        "review": {
+          "day": "Day 5",
+          "title": "Joint Review",
+          "items": ["We present the proposal", "You suggest changes", "We adjust colors, texts, photos", "Final approval"]
+        },
+        "launch": {
+          "day": "Day 6-7",
+          "title": "Launch",
+          "items": ["Hosting configured", "Domain connected", "Google Maps integrated", "ONLINE!"]
+        }
+      }
+    },
+    "includes": {
+      "title": "What's Included in WebExpress?",
+      "items": {
+        "design": {
+          "title": "Custom Design",
+          "description": "We don't use templates. Each website is designed specifically for your type of business."
+        },
+        "pages": {
+          "title": "5 Professional Pages",
+          "description": "Home, Services, Gallery, Contact, and About Us."
+        },
+        "responsive": {
+          "title": "Responsive (Mobile + Desktop)",
+          "description": "75% of your customers search from mobile. Your website looks perfect on any device."
+        },
+        "seo": {
+          "title": "Local SEO Optimized",
+          "description": "Configured so Google finds you. Meta tags, Schema.org, sitemap, and speed <2 seconds."
+        },
+        "form": {
+          "title": "Contact Form",
+          "description": "Receive inquiries directly to your email. With validation and anti-spam protection."
+        },
+        "maps": {
+          "title": "Google Maps Integrated",
+          "description": "Your customers find your location easily with one click."
+        },
+        "hosting": {
+          "title": "Hosting Included (1 Year)",
+          "description": "Professional hosting, SSL/HTTPS, optional professional email, and automatic backups."
+        },
+        "fast": {
+          "title": "Ultra Fast Loading",
+          "description": "Optimized images, clean code. A slow website = customers leaving."
+        }
+      }
+    },
+    "pricing": {
+      "title": "Transparent Pricing",
+      "subtitle": "No fine print. No hidden costs.",
+      "basic": {
+        "name": "WebExpress Pack",
+        "price": "$690",
+        "period": "one-time payment",
+        "features": ["5 professional pages", "Custom design", "Responsive (mobile + desktop)", "SEO optimized", "Contact form", "Google Maps", "1 year hosting included", ".com domain (if you don't have one)", "SSL/HTTPS", "7-day delivery", "2 rounds of adjustments"],
+        "cta": "Request Proposal"
+      },
+      "maintenance": {
+        "name": "Maintenance",
+        "badge": "Optional",
+        "price": "$20",
+        "period": "/month",
+        "features": ["Hosting renewal", "Content updates", "Priority technical support", "Weekly backups", "Uptime monitoring"],
+        "cta": "Add Maintenance"
+      },
+      "extras": {
+        "title": "A La Carte Extras",
+        "items": {
+          "photo": {
+            "name": "Professional photo session",
+            "price": "+$150"
+          },
+          "content": {
+            "name": "Content writing",
+            "price": "+$100"
+          },
+          "catalog": {
+            "name": "Product catalog (10 items)",
+            "price": "+$150"
+          },
+          "english": {
+            "name": "English version",
+            "price": "+$200"
+          },
+          "analytics": {
+            "name": "Google Analytics setup",
+            "price": "+$50"
+          }
+        }
+      },
+      "payment": {
+        "title": "Payment Methods",
+        "methods": ["50% upfront (reserve your project)", "50% on delivery (before publishing)"],
+        "accepts": "We accept: Bank transfer, PayPal, Credit card"
+      }
+    },
+    "why": {
+      "title": "Why Choose WebExpress?",
+      "items": {
+        "speed": {
+          "title": "Speed",
+          "description": "7 days on average. Not months of waiting. Your competition is already online, you should be too."
+        },
+        "price": {
+          "title": "Fair Price",
+          "description": "No fine print. No hidden costs. You know exactly what you pay and what you receive."
+        },
+        "personal": {
+          "title": "Personal Touch",
+          "description": "You work directly with the developer. No intermediaries. We explain everything in plain language."
+        },
+        "design": {
+          "title": "Design that Stands Out",
+          "description": "We don't use generic templates. Your website reflects YOUR business, not a downloaded template."
+        },
+        "tech": {
+          "title": "Proven Technology",
+          "description": "Clean and optimized code. No slow WordPress. Fast website = happy customers."
+        },
+        "guarantee": {
+          "title": "Satisfaction Guarantee",
+          "description": "If you're not satisfied within 30 days, we refund 100% of your money. No questions asked."
+        }
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": {
+        "really7days": {
+          "question": "Really in 7 days?",
+          "answer": "Yes. The standard process is: Day 1-2 we gather info, Day 3-4 we develop, Day 5 review with you, Day 6-7 adjustments and launch. It can be faster if you have all the content ready."
+        },
+        "whatINeed": {
+          "question": "What do I need to prepare?",
+          "answer": "Ideally: logo (if you have one), photos of your business/products, text about your services, your social media. But if you don't have anything, no problem. We'll get it."
+        },
+        "changes": {
+          "question": "Can I make changes later?",
+          "answer": "Of course. We include 2 rounds of changes during development. After launch, you can hire maintenance ($20/month), pay for specific changes ($40/hour), or learn to edit basic content."
+        },
+        "technical": {
+          "question": "Do I need technical knowledge?",
+          "answer": "Not at all. We take care of EVERYTHING: domain, hosting, email, configuration, publishing. You just provide your business content."
+        },
+        "domain": {
+          "question": "What about the domain?",
+          "answer": "If you already have one (.com, .es): we use it. If you don't: we help you register one (~$10/year). You are always the owner."
+        },
+        "ecommerce": {
+          "question": "Can I sell products online?",
+          "answer": "The basic pack does NOT include e-commerce. But we can add a product catalog where people see prices and contact you. For a full store with payments, it's a different project."
+        },
+        "mobile": {
+          "question": "Does it work on mobile?",
+          "answer": "100%. In fact, we optimize for mobile first because 75% of searches are from phones."
+        },
+        "google": {
+          "question": "Will I appear on Google automatically?",
+          "answer": "Your website will be SEO optimized, but appearing on the first page takes time (1-3 months) and depends on competition. We lay the groundwork."
+        },
+        "afterYear": {
+          "question": "What happens after the first year of hosting?",
+          "answer": "Options: renewal (~$50-80/year), maintenance ($20/month includes hosting + updates), or migrate to your own hosting (we help for free)."
+        },
+        "guarantee": {
+          "question": "Do you offer a guarantee?",
+          "answer": "Yes. If you're not satisfied within 30 days, we refund 100% of your money. No questions. No complications."
+        }
+      }
+    },
+    "cta": {
+      "title": "Ready for Your Professional Website?",
+      "subtitle": "Tell us about your business and we'll prepare a personalized proposal NO COMMITMENT",
+      "button": "Request Free Proposal",
+      "response": "Response in less than 24h"
+    }
+  },
+  "footer": {
+    "tagline": "AI Consulting • AI Agents • Process Optimization • WebExpress",
+    "contact": "Contact",
+    "presence": "Presence",
+    "comingSoon": "Coming soon: Spain",
+    "rights": "All rights reserved."
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The page you're looking for doesn't exist or has been moved.",
+    "backHome": "Back to Home",
+    "quickLinks": "Or try these pages:"
+  },
+  "seo": {
+    "home": {
+      "title": "InspAIre Solutions - AI Consulting & Development Services",
+      "description": "Unlock the power of Artificial Intelligence to transform your business. AI consulting, intelligent agents, and process optimization services."
+    },
+    "services": {
+      "title": "Our AI Services - InspAIre Solutions",
+      "description": "Comprehensive AI services including consulting, agent development, process optimization, and custom solutions tailored to your business needs."
+    },
+    "contact": {
+      "title": "Contact Us - InspAIre Solutions",
+      "description": "Get in touch with InspAIre Solutions to discuss your AI needs. Expert consulting and development services for businesses of all sizes."
+    },
+    "webexpress": {
+      "title": "WebExpress - Professional Websites in 7 Days",
+      "description": "Your professional website ready in 7 days. Custom design, SEO optimized, hosting included. From $690. For local businesses that want to stand out online."
+    }
+  }
+}

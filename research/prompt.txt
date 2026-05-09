@@ -1,0 +1,41 @@
+Lee el skill frontend-design. Voy a desarrollar una web para Inspaire Solutions, una empresa dedicada a ofrecer servicios de AI.
+
+INFORMACIÓN DEL NEGOCIO:
+- Nombre: Inspaire Solutions
+- Tipo: Tecnología, AI
+- Servicios: Agentes AI, Webs To Go
+
+CONTENIDO ENCONTRADO:
+Ver landing actual en index.html
+
+RECURSOS VISUALES:
+Ver directorio assets/ing
+
+OBJETIVO:
+Crear una web de 3 páginas (inicio, servicios, contacto) con diseño minimalista, sofisticado, techi y MUY AI. Debe transmitir confianza, calidad.
+
+PÁGINAS REQUERIDAS:
+1. INICIO: Hero impactante con el logo, breve descripción, call-to-action "Contacto", sección de servicios destacados y Who We Work With
+2. SERVICIOS: Lista detallada de servicios: ver "Our AI Services" en la LP actual
+5. CONTACTO: Formulario, teléfono, dirección, Google Maps embebido, horarios
+
+REQUISITOS TÉCNICOS:
+- HTML/CSS/JS, si vas a utilizar un framework, que sea React
+- SEO optimizado para "agentes AI"
+- Schema.org
+- Responsive mobile-first
+- Lazy loading de imágenes
+- Formulario de contacto funcional (con validación)
+- Optimizado para Google PageSpeed (>90)
+- Idiomas español e ingles, con selector de idiomas
+- Opciones para dark y ligh mode. Dark por defecto
+
+DISEÑO:
+- Estética: Elegante, minimalista, sofisticado, techi y MUY AI
+- Tipografía: Serif elegante para headings, Sans-serif limpia para body
+- Colores: A tu eleccion
+- Espaciado generoso (sensación premium)
+- Animaciones sutiles y sofisticadas
+- Evitar: diseños recargados, colores chillones, tipografías genéricas (Inter, Arial, Roboto)
+
+Por favor, genera la estructura completa del proyecto con todos los archivos necesarios.

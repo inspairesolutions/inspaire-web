@@ -1,0 +1,8 @@
+# robots.txt for InspAIre Solutions
+# https://inspaire-solutions.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://inspaire-solutions.com/sitemap.xml

@@ -1,0 +1,452 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "webexpress": "WebExpress",
+    "contact": "Contacto",
+    "getInTouch": "Contáctanos"
+  },
+  "hero": {
+    "title": "Consultoría y Desarrollo de IA",
+    "subtitle": "Desbloquea el poder de la Inteligencia Artificial para transformar tu negocio. Desde consultoría de IA hasta agentes inteligentes y optimización de procesos, ayudamos a las organizaciones a innovar y crecer.",
+    "cta": "Comenzar"
+  },
+  "services": {
+    "title": "Nuestros Servicios de IA",
+    "subtitle": "Soluciones de IA integrales adaptadas a las necesidades de tu negocio",
+    "learnMore": "Más información",
+    "consulting": {
+      "title": "Consultoría de IA",
+      "description": "Te guiamos en el viaje de la IA, desde identificar oportunidades hasta diseñar estrategias efectivas y seleccionar las tecnologías adecuadas.",
+      "longDescription": "Nuestros consultores expertos trabajan estrechamente con tu equipo para comprender tus desafíos y oportunidades únicos. Proporcionamos orientación estratégica sobre la adopción de IA, te ayudamos a construir una hoja de ruta para la implementación y aseguramos que tus iniciativas de IA se alineen con tus objetivos comerciales.",
+      "features": {
+        "assessment": "Evaluación de madurez en IA de tu organización",
+        "roadmap": "Hoja de ruta estratégica para implementación",
+        "selection": "Selección de tecnologías y proveedores",
+        "training": "Capacitación y upskilling de equipos",
+        "governance": "Marcos de gobernanza y ética en IA"
+      },
+      "benefits": {
+        "title": "Beneficios clave",
+        "items": ["Reducción de riesgos en la adopción de IA", "Alineación con objetivos de negocio", "ROI optimizado en inversiones de IA", "Equipos preparados para el futuro"]
+      }
+    },
+    "agents": {
+      "title": "Desarrollo de Agentes IA",
+      "description": "Construimos agentes inteligentes que automatizan tareas, mejoran las experiencias del cliente y proporcionan información procesable adaptada a tus necesidades.",
+      "longDescription": "Desde asistentes de IA conversacional hasta sistemas de toma de decisiones autónomos, diseñamos y desarrollamos agentes de IA que funcionan perfectamente con tus procesos existentes. Nuestros agentes están diseñados para aprender, adaptarse y mejorar con el tiempo, entregando un valor creciente a tu organización.",
+      "features": {
+        "chatbots": "Chatbots y asistentes virtuales inteligentes",
+        "automation": "Automatización de flujos de trabajo complejos",
+        "integration": "Integración con sistemas existentes (CRM, ERP)",
+        "analytics": "Análisis predictivo y recomendaciones",
+        "multimodal": "Agentes multimodales (texto, voz, imagen)"
+      },
+      "benefits": {
+        "title": "Beneficios clave",
+        "items": ["Atención 24/7 sin intervención humana", "Reducción de costos operativos hasta 60%", "Escalabilidad instantánea", "Experiencias personalizadas para cada usuario"]
+      }
+    },
+    "optimization": {
+      "title": "Optimización de Procesos",
+      "description": "Nuestros modelos de IA optimizan flujos de trabajo con análisis predictivo y automatización para reducir costos y aumentar la eficiencia.",
+      "longDescription": "Analizamos tus procesos actuales para identificar cuellos de botella e ineficiencias. Utilizando aprendizaje automático avanzado y análisis predictivo, implementamos soluciones que automatizan tareas repetitivas, optimizan la asignación de recursos e impulsan la excelencia operativa.",
+      "features": {
+        "processMapping": "Mapeo y análisis de procesos actuales",
+        "bottlenecks": "Identificación de cuellos de botella",
+        "predictive": "Modelos predictivos para demanda y recursos",
+        "rpa": "Automatización robótica de procesos (RPA)",
+        "monitoring": "Dashboards de monitoreo en tiempo real"
+      },
+      "benefits": {
+        "title": "Beneficios clave",
+        "items": ["Reducción de tiempos de ciclo hasta 40%", "Eliminación de errores humanos", "Mejor asignación de recursos", "Visibilidad total del rendimiento"]
+      }
+    },
+    "custom": {
+      "title": "Soluciones IA Personalizadas",
+      "description": "Desarrollamos soluciones de IA a medida—visión por computadora, PLN, IA generativa—para resolver tus desafíos más complejos.",
+      "longDescription": "Cada negocio tiene desafíos únicos que requieren soluciones a medida. Ya sea que necesites visión por computadora para control de calidad, procesamiento de lenguaje natural para análisis de documentos, o IA generativa para creación de contenido, construimos soluciones personalizadas que abordan tus necesidades específicas.",
+      "features": {
+        "vision": "Visión por computadora para inspección y análisis",
+        "nlp": "Procesamiento de lenguaje natural (NLP/NLU)",
+        "generative": "IA generativa para contenido y diseño",
+        "recommendation": "Sistemas de recomendación avanzados",
+        "forecasting": "Forecasting y series temporales"
+      },
+      "benefits": {
+        "title": "Beneficios clave",
+        "items": ["Solución 100% adaptada a tu caso de uso", "Propiedad intelectual propia", "Ventaja competitiva única", "Escalable según tus necesidades"]
+      }
+    },
+    "webexpress": {
+      "title": "WebExpress",
+      "badge": "Nuevo",
+      "description": "Webs profesionales para negocios locales, listas en 7 días. Diseño personalizado, SEO optimizado y todo lo que necesitas para destacar online.",
+      "longDescription": "¿Tu negocio aún no está en internet? Te creamos una web profesional casi lista. Solo ajustes finales y ¡online! Especializados en negocios locales que necesitan presencia online RÁPIDO."
+    }
+  },
+  "featured": {
+    "badge": "Nuevo Servicio",
+    "title": "WebExpress",
+    "tagline": "Tu negocio online en una semana",
+    "description": "Webs profesionales para negocios locales. Diseño personalizado, SEO optimizado, listo para vender. Sin esperas, sin complicaciones.",
+    "price": "Desde $690",
+    "cta": "Descubre WebExpress",
+    "highlights": {
+      "fast": "Entrega en 7 días",
+      "pages": "5 páginas profesionales",
+      "seo": "SEO local optimizado",
+      "responsive": "100% responsive"
+    }
+  },
+  "whyUs": {
+    "title": "¿Por Qué Elegir InspAIre Solutions?",
+    "subtitle": "Combinamos experiencia técnica con visión de negocio para entregar resultados tangibles",
+    "items": {
+      "expertise": {
+        "title": "Experiencia en Múltiples Industrias",
+        "description": "Hemos trabajado con empresas de retail, finanzas, salud, manufactura y más. Entendemos los desafíos específicos de cada sector."
+      },
+      "partnership": {
+        "title": "Asociación de Principio a Fin",
+        "description": "No solo entregamos tecnología. Te acompañamos desde la estrategia hasta la implementación y el soporte continuo."
+      },
+      "impact": {
+        "title": "Impacto Comprobado en Eficiencia",
+        "description": "Nuestros clientes han visto mejoras de hasta 60% en eficiencia operativa y ROI positivo en menos de 6 meses."
+      },
+      "scalable": {
+        "title": "Soluciones Escalables y Futuras",
+        "description": "Diseñamos pensando en el crecimiento. Nuestras soluciones escalan contigo y se adaptan a nuevos desafíos."
+      }
+    }
+  },
+  "approach": {
+    "title": "Nuestro Enfoque",
+    "subtitle": "Una metodología probada para el éxito en IA",
+    "steps": {
+      "discovery": {
+        "title": "Descubrimiento",
+        "description": "Identificar oportunidades donde la IA crea valor real.",
+        "details": "Analizamos tu negocio, procesos y datos para encontrar las mejores oportunidades de aplicar IA con impacto medible."
+      },
+      "design": {
+        "title": "Diseño",
+        "description": "Construir soluciones de IA adaptadas a tus objetivos comerciales.",
+        "details": "Diseñamos la arquitectura, seleccionamos tecnologías y creamos prototipos para validar el enfoque antes de invertir."
+      },
+      "implementation": {
+        "title": "Implementación",
+        "description": "Integrar la IA sin problemas en tus sistemas existentes.",
+        "details": "Desarrollamos e integramos la solución de forma iterativa, asegurando calidad y mínima interrupción operativa."
+      },
+      "optimization": {
+        "title": "Optimización",
+        "description": "Mejorar y escalar continuamente para un impacto a largo plazo.",
+        "details": "Monitoreamos, mejoramos y escalamos la solución basándonos en datos reales y feedback del negocio."
+      }
+    }
+  },
+  "clients": {
+    "title": "Con Quién Trabajamos",
+    "subtitle": "Nos asociamos con empresas, startups, PYMEs e instituciones públicas para desbloquear el poder transformador de la IA.",
+    "types": {
+      "enterprises": "Empresas",
+      "startups": "Startups",
+      "smbs": "PYMEs",
+      "public": "Sector Público"
+    }
+  },
+  "cta": {
+    "title": "Comienza con IA Hoy",
+    "subtitle": "La IA está transformando la forma en que operan los negocios. Deja que InspAIre Solutions te ayude a desbloquear todo su potencial con consultoría experta y soluciones a medida.",
+    "button": "Contáctanos"
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "Nos encantaría conocer tus objetivos y cómo la IA puede ayudar.",
+    "emailDirect": "O envíanos un correo directamente a",
+    "phone": "Teléfono",
+    "presence": "Presencia global",
+    "comingSoon": "Próximamente: España",
+    "form": {
+      "name": "Nombre",
+      "namePlaceholder": "Tu nombre",
+      "email": "Correo electrónico",
+      "emailPlaceholder": "tu@empresa.com",
+      "company": "Empresa",
+      "companyPlaceholder": "Nombre de la empresa",
+      "message": "Mensaje",
+      "messagePlaceholder": "Cuéntanos sobre tu proyecto u objetivos",
+      "submit": "Enviar Mensaje",
+      "sending": "Enviando...",
+      "success": "¡Mensaje enviado con éxito! Te responderemos pronto.",
+      "error": "Algo salió mal. Por favor intenta de nuevo o escríbenos directamente.",
+      "disclaimer": "Responderemos a tu consulta lo antes posible."
+    },
+    "office": {
+      "title": "Nuestra Oficina",
+      "address1": "30 N Gould St, STE R",
+      "address2": "Sheridan, WY 82801, USA"
+    },
+    "errors": {
+      "nameRequired": "El nombre es obligatorio",
+      "emailRequired": "El correo electrónico es obligatorio",
+      "emailInvalid": "Dirección de correo electrónico inválida",
+      "messageRequired": "El mensaje es obligatorio",
+      "messageMin": "El mensaje debe tener al menos 10 caracteres"
+    }
+  },
+  "webexpress": {
+    "hero": {
+      "badge": "WebExpress",
+      "title": "Tu negocio online en una semana",
+      "subtitle": "Webs profesionales para negocios locales. Diseño personalizado, SEO optimizado, lista para comenzar a vender.",
+      "cta": "Solicitar Propuesta",
+      "ctaSecondary": "Ver qué incluye"
+    },
+    "about": {
+      "title": "¿Qué es WebExpress?",
+      "description": "Somos especialistas en crear webs profesionales para negocios locales que necesitan presencia online RÁPIDO.",
+      "highlight": "Nuestra propuesta es diferente",
+      "highlightText": "En lugar de empezar desde cero y hacerte esperar meses, investigamos tu negocio, analizamos tu competencia, y llegamos con una propuesta CASI LISTA. Tú revisas, ajustamos juntos, y en una semana estás online.",
+      "noTemplates": "No usamos plantillas genéricas. Cada web se diseña específicamente para tu tipo de negocio, con tu información, tus fotos, y tu estilo."
+    },
+    "forWho": {
+      "title": "¿Para Quién es WebExpress?",
+      "subtitle": "Ideal para negocios locales que necesitan presencia online profesional",
+      "items": {
+        "noWeb": "Negocios SIN web o con web anticuada",
+        "local": "Tiendas y comercios locales",
+        "services": "Profesionales y servicios",
+        "restaurants": "Restaurantes y hostelería",
+        "health": "Clínicas y centros de salud",
+        "others": "Y muchos más..."
+      }
+    },
+    "process": {
+      "title": "Proceso WebExpress",
+      "subtitle": "De 0 a Online en 7 días",
+      "steps": {
+        "research": {
+          "day": "Día 1-2",
+          "title": "Investigación",
+          "items": ["Recopilamos información sobre tu negocio", "Analizamos tu competencia", "Definimos tu propuesta de valor", "Conseguimos fotos si las necesitas"]
+        },
+        "design": {
+          "day": "Día 3-4",
+          "title": "Diseño y Desarrollo",
+          "items": ["Diseño adaptado a tu sector", "5 páginas profesionales", "Optimizada para móvil", "SEO para búsquedas locales"]
+        },
+        "review": {
+          "day": "Día 5",
+          "title": "Revisión Conjunta",
+          "items": ["Te presentamos la propuesta", "Sugieres cambios", "Ajustamos colores, textos, fotos", "Aprobación final"]
+        },
+        "launch": {
+          "day": "Día 6-7",
+          "title": "Lanzamiento",
+          "items": ["Hosting configurado", "Dominio conectado", "Google Maps integrado", "¡ONLINE!"]
+        }
+      }
+    },
+    "includes": {
+      "title": "¿Qué Incluye el Pack WebExpress?",
+      "items": {
+        "design": {
+          "title": "Diseño Personalizado",
+          "description": "No usamos plantillas. Cada web se diseña específicamente para tu tipo de negocio."
+        },
+        "pages": {
+          "title": "5 Páginas Profesionales",
+          "description": "Inicio, Servicios, Galería, Contacto y Sobre Nosotros."
+        },
+        "responsive": {
+          "title": "Responsive (Móvil + Desktop)",
+          "description": "El 75% de tus clientes busca desde el móvil. Tu web se ve perfecta en cualquier dispositivo."
+        },
+        "seo": {
+          "title": "SEO Local Optimizado",
+          "description": "Configurada para que Google te encuentre. Meta tags, Schema.org, sitemap y velocidad <2 segundos."
+        },
+        "form": {
+          "title": "Formulario de Contacto",
+          "description": "Recibe consultas directamente a tu email. Con validación y protección anti-spam."
+        },
+        "maps": {
+          "title": "Google Maps Integrado",
+          "description": "Tus clientes encuentran tu ubicación fácilmente con un clic."
+        },
+        "hosting": {
+          "title": "Hosting Incluido (1 Año)",
+          "description": "Hosting profesional, SSL/HTTPS, email profesional opcional y backups automáticos."
+        },
+        "fast": {
+          "title": "Carga Ultra Rápida",
+          "description": "Imágenes optimizadas, código limpio. Una web lenta = clientes que se van."
+        }
+      }
+    },
+    "pricing": {
+      "title": "Precios Transparentes",
+      "subtitle": "Sin letra pequeña. Sin costes ocultos.",
+      "basic": {
+        "name": "Pack WebExpress",
+        "price": "$690",
+        "period": "pago único",
+        "features": ["5 páginas profesionales", "Diseño personalizado", "Responsive (móvil + desktop)", "SEO optimizado", "Formulario de contacto", "Google Maps", "Hosting 1 año incluido", "Dominio .com (si no tienes)", "SSL/HTTPS", "Entrega en 7 días", "2 rondas de ajustes"],
+        "cta": "Solicitar Propuesta"
+      },
+      "maintenance": {
+        "name": "Mantenimiento",
+        "badge": "Opcional",
+        "price": "$20",
+        "period": "/mes",
+        "features": ["Renovación de hosting", "Actualizaciones de contenido", "Soporte técnico prioritario", "Backups semanales", "Monitoreo de uptime"],
+        "cta": "Añadir Mantenimiento"
+      },
+      "extras": {
+        "title": "Extras a la Carta",
+        "items": {
+          "photo": {
+            "name": "Sesión fotográfica profesional",
+            "price": "+$150"
+          },
+          "content": {
+            "name": "Redacción de contenidos",
+            "price": "+$100"
+          },
+          "catalog": {
+            "name": "Catálogo de productos (10 items)",
+            "price": "+$150"
+          },
+          "english": {
+            "name": "Versión en inglés",
+            "price": "+$200"
+          },
+          "analytics": {
+            "name": "Google Analytics configurado",
+            "price": "+$50"
+          }
+        }
+      },
+      "payment": {
+        "title": "Formas de Pago",
+        "methods": ["50% al inicio (reserva tu proyecto)", "50% al entregar (antes de publicar)"],
+        "accepts": "Aceptamos: Transferencia bancaria, PayPal, Tarjeta"
+      }
+    },
+    "why": {
+      "title": "¿Por Qué Elegir WebExpress?",
+      "items": {
+        "speed": {
+          "title": "Rapidez",
+          "description": "7 días de promedio. No meses de espera. Tu competencia ya está online, tú también deberías estarlo."
+        },
+        "price": {
+          "title": "Precio Justo",
+          "description": "Sin letra pequeña. Sin costes ocultos. Sabes exactamente qué pagas y qué recibes."
+        },
+        "personal": {
+          "title": "Trato Cercano",
+          "description": "Trabajas directamente con el desarrollador. No intermediarios. Te explicamos todo en lenguaje claro."
+        },
+        "design": {
+          "title": "Diseño que Destaca",
+          "description": "No usamos plantillas genéricas. Tu web refleja TU negocio, no una plantilla descargada."
+        },
+        "tech": {
+          "title": "Tecnología Probada",
+          "description": "Código limpio y optimizado. Sin WordPress lento. Web rápida = clientes contentos."
+        },
+        "guarantee": {
+          "title": "Garantía de Satisfacción",
+          "description": "Si en 30 días no estás satisfecho, te devolvemos el 100% del dinero. Sin preguntas."
+        }
+      }
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "items": {
+        "really7days": {
+          "question": "¿Realmente en 7 días?",
+          "answer": "Sí. El proceso estándar es: Día 1-2 recopilamos info, Día 3-4 desarrollamos, Día 5 revisión contigo, Día 6-7 ajustes y lanzamiento. Puede ser más rápido si tienes todo el contenido listo."
+        },
+        "whatINeed": {
+          "question": "¿Qué necesito preparar?",
+          "answer": "Idealmente: logo (si tienes), fotos de tu negocio/productos, texto con tus servicios, tus redes sociales. Pero si no tienes nada, no hay problema. Nosotros lo conseguimos."
+        },
+        "changes": {
+          "question": "¿Puedo hacer cambios después?",
+          "answer": "Claro. Incluimos 2 rondas de cambios durante el desarrollo. Después del lanzamiento, puedes contratar mantenimiento ($20/mes), pagar por cambios puntuales ($40/hora), o aprender a editar contenido básico."
+        },
+        "technical": {
+          "question": "¿Necesito conocimientos técnicos?",
+          "answer": "Para nada. Nos encargamos de TODO: dominio, hosting, email, configuración, publicación. Tú solo aportas el contenido de tu negocio."
+        },
+        "domain": {
+          "question": "¿Qué pasa con el dominio?",
+          "answer": "Si ya tienes uno (.com, .es): lo usamos. Si no tienes: te ayudamos a registrar uno (~$10/año). Tú eres el propietario siempre."
+        },
+        "ecommerce": {
+          "question": "¿Puedo vender productos online?",
+          "answer": "El pack básico NO incluye tienda online (e-commerce). Pero podemos añadir un catálogo de productos donde la gente ve precios y te contacta. Para tienda completa con pagos, es un proyecto diferente."
+        },
+        "mobile": {
+          "question": "¿Funciona en móviles?",
+          "answer": "100%. De hecho, optimizamos primero para móvil porque el 75% de las búsquedas son desde el teléfono."
+        },
+        "google": {
+          "question": "¿Aparezco en Google automáticamente?",
+          "answer": "Tu web estará optimizada para SEO, pero aparecer en primera página lleva tiempo (1-3 meses) y depende de la competencia. Nosotros ponemos las bases."
+        },
+        "afterYear": {
+          "question": "¿Qué pasa tras el primer año de hosting?",
+          "answer": "Opciones: renovación (~$50-80/año), mantenimiento ($20/mes incluye hosting + actualizaciones), o migrar a tu propio hosting (te ayudamos gratis)."
+        },
+        "guarantee": {
+          "question": "¿Ofrecéis garantía?",
+          "answer": "Sí. Si en 30 días no estás satisfecho, te devolvemos el 100% del dinero. Sin preguntas. Sin complicaciones."
+        }
+      }
+    },
+    "cta": {
+      "title": "¿Listo para tu Web Profesional?",
+      "subtitle": "Cuéntanos sobre tu negocio y te preparamos una propuesta personalizada SIN COMPROMISO",
+      "button": "Solicitar Propuesta Gratis",
+      "response": "Respuesta en menos de 24h"
+    }
+  },
+  "footer": {
+    "tagline": "Consultoría IA • Agentes IA • Optimización de Procesos • WebExpress",
+    "contact": "Contacto",
+    "presence": "Presencia",
+    "comingSoon": "Próximamente: España",
+    "rights": "Todos los derechos reservados."
+  },
+  "notFound": {
+    "title": "Página No Encontrada",
+    "description": "La página que buscas no existe o ha sido movida.",
+    "backHome": "Volver al Inicio",
+    "quickLinks": "O prueba estas páginas:"
+  },
+  "seo": {
+    "home": {
+      "title": "InspAIre Solutions - Consultoría y Desarrollo de IA",
+      "description": "Desbloquea el poder de la Inteligencia Artificial para transformar tu negocio. Consultoría de IA, agentes inteligentes y servicios de optimización de procesos."
+    },
+    "services": {
+      "title": "Nuestros Servicios de IA - InspAIre Solutions",
+      "description": "Servicios integrales de IA que incluyen consultoría, desarrollo de agentes, optimización de procesos y soluciones personalizadas adaptadas a las necesidades de tu negocio."
+    },
+    "contact": {
+      "title": "Contáctanos - InspAIre Solutions",
+      "description": "Ponte en contacto con InspAIre Solutions para discutir tus necesidades de IA. Servicios de consultoría y desarrollo expertos para empresas de todos los tamaños."
+    },
+    "webexpress": {
+      "title": "WebExpress - Webs Profesionales en 7 Días",
+      "description": "Tu web profesional lista en 7 días. Diseño personalizado, SEO optimizado, hosting incluido. Desde $690. Para negocios locales que quieren destacar online."
+    }
+  }
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://inspaire-solutions.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inspaire-solutions.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://inspaire-solutions.com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inspaire-solutions.com/"/>
+    <lastmod>2026-01-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://inspaire-solutions.com/services</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inspaire-solutions.com/services"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://inspaire-solutions.com/services"/>
+    <lastmod>2026-01-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://inspaire-solutions.com/webexpress</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inspaire-solutions.com/webexpress"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://inspaire-solutions.com/webexpress"/>
+    <lastmod>2026-01-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://inspaire-solutions.com/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inspaire-solutions.com/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://inspaire-solutions.com/contact"/>
+    <lastmod>2026-01-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
